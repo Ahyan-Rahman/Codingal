@@ -14,5 +14,5 @@ def totalSetBits(n):
     print('The number of Zeros',zeros)
     print('The number of ones',ones)      
 
-number= int(input("Enter a number: "))
+number= int(input("Enter a number here: "))
 totalSetBits(number)
